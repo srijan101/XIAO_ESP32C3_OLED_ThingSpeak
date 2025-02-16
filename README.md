@@ -1,10 +1,10 @@
-# XiaoESP32C3_OLED_ThingSpeak
-Arduino code for Seeed Studio Xiao ESP32-C3 with an OLED display. Fetches sensor data from ThingSpeak and displays it dynamically on the screen. Includes Wi-Fi connectivity and JSON data parsing.
+# XIAO ESP32C3_OLED_ThingSpeak
+Arduino code for Seeed Studio XIAO ESP32-C3 with an OLED display. Fetches sensor data from ThingSpeak and displays it dynamically on the screen. Includes Wi-Fi connectivity and JSON data parsing.
 
 
-# Xiao ESP32-C3 with OLED Display and ThingSpeak Integration
+# XIAO ESP32-C3 with OLED Display and ThingSpeak Integration
 
-This repository contains Arduino code for interfacing a Seeed Studio Xiao ESP32-C3 microcontroller with an OLED display to fetch and display data from a ThingSpeak channel. The code dynamically retrieves sensor values, such as lux, temperature, humidity, air pressure, altitude, and noise level, from a ThingSpeak API and displays them on the OLED screen.
+This repository contains Arduino code for interfacing a Seeed Studio XIAO ESP32-C3 microcontroller with an OLED display to fetch and display data from a ThingSpeak channel. The code dynamically retrieves sensor values, such as lux, temperature, humidity, air pressure, altitude, and noise level, from a ThingSpeak API and displays them on the OLED screen.
 
 ## Features
 
@@ -17,7 +17,7 @@ This repository contains Arduino code for interfacing a Seeed Studio Xiao ESP32-
 
 ### Hardware
 
-- **Seeed Studio Xiao ESP32-C3**
+- **Seeed Studio XIAO ESP32-C3**
 - **128x64 OLED Display (I2C)**
 - External LED connected to pin `D10` (optional for debugging).
 
@@ -33,4 +33,4 @@ This repository contains Arduino code for interfacing a Seeed Studio Xiao ESP32-
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/srijan101/XiaoESP32C3_OLED_ThingSpeak.git
+   git clone https://github.com/srijan101/XIAOESP32C3_OLED_ThingSpeak.git
